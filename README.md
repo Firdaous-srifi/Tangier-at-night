@@ -1,0 +1,1 @@
+This project is a web-based exploration of the vibrant city of Tangier, Morocco, at night. Using HTML and CSS, we aim to capture the essence of the city's nightlife, from its bustling markets to its intimate cafes and everything in between.
